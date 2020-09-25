@@ -55,7 +55,7 @@ def final_rec(predictions):
 if __name__ == '__main__':
     print('Welcome to Adventurous Music Recommender', '\n', 
           'A music recommender that can help you explore new music', '\n',
-         'For questions, please contact haowyang9@gmail.com. Feedbacks are greatly appreciated ;-)', '\n')
+         'For questions, please contact haowyang9@gmail.com. Feedback is always greatly appreciated ;-)', '\n')
     try:
         dataset, rating_data = load_dataset()
     except:
