@@ -21,6 +21,7 @@ Here are some of the most rated songs in the dataset:
 
 ### Recommender
 The recommender follows the process:
+
 ![process map](img/Screen Shot 2020-09-24 at 8.54.27 AM.png)
 
 
