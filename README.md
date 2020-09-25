@@ -12,5 +12,6 @@ Are you tired of listening to the same type of music over and over but don't kno
 For this project, I used [Amazon user reviews of digital music purchase](https://nijianmo.github.io/amazon/index.html). The dataset contains 233.1 million reviews ranging from May 1996 to Oct 2018. 
 
 Here are some of the most rated songs in the dataset:
-![Most rated songs](img/popular_songs_wc.png)
+![Most rated songs]()
 
+### 
